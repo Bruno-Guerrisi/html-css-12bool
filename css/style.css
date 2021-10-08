@@ -24,9 +24,14 @@ h2{
     text-align: center;
     padding: 10px;
     border: 1px solid white;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .container-2 .row *{
     height: 40px;
+}
+
+.row.dis-flex{
+    display: flex;
+    align-items: center;
 }
