@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+
+body .container{
+    max-width: 700px;
+    margin: 30px auto;
+}
+.box{
+    height: 50px;
+}
+
+.box-clothes-2,
+.box-hat{
+    background-color: red;
+}
+.box-hair{
+    background-color: rgb(83, 48, 28);
+}
+.box-skin{
+    background-color: rgb(255, 181, 251);
+}
+.box-eye{
+    background-color: black;
+}
+.box-moustache{
+    background-color: rgb(58, 35, 21);
+}
+.box-clothes-1{
+    background-color: rgb(16, 16, 179);
+}
+.box-gold{
+    background-color: gold;
+}
+.box-shoes{
+    background-color: rgb(88, 51, 27);
+}
+
+.box-brick{
+    background-color: #aa5833;
+}
+.floor{
+    background-color: #3b2015;
+    border-radius: 20px;
+}
+.floor .row{
+    margin-bottom: 20px;
+}
+
+.box-floor{
+    height: 100px;
+    border-radius: 20px;
+}
+
