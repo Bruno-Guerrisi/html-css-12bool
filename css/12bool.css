@@ -10,7 +10,7 @@
 
 /* CONTAINER */
 .container{
-    max-width: 1170px;
+    /* max-width: 1170px; */
     margin: 0 auto;
 }
 
@@ -22,17 +22,17 @@
 }
 
 /* COLUMNS */
-[class*="col-"] {
+/* [class*="col-"] {
     flex: 0 0 auto;
     padding-left: 15px;
     padding-right: 15px;
-}
+} */
 
-[class*="col-"].padding-0 {
+/* [class*="col-"].padding-0 {
     padding-left: 0;
     padding-right: 0;
 }
-
+ */
 /***************
     RESPONSIVE  
 ****************/
